@@ -91,9 +91,8 @@ CSS Modules: Used for component-level styling to prevent conflicts.
 
 📜 License
 
-🦖 I wasn't able to figure out how to use Docusaurus but hopefully one day I'll learn.
-
-This project is licensed under the MIT License.
+🦖 I wasn't able to figure out how to use Docusaurus but hopefully one day I'll learn. The gitignore was not able to ignore the
+node_modules packages, files were too heavy causing a rejection to push to my repository 
 
 Made with ❤️ by Diego Damian 🚀
 
